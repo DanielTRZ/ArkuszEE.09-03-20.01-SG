@@ -1,0 +1,4 @@
+kw1: SELECT * FROM `pogoda` WHERE `miasta_id`=2 ORDER BY `data_prognozy` DESC;
+kw2: SELECT `id`,`temperatura_dzien`FROM `pogoda` WHERE`cisnienie`<1000;
+kw3: SELECT `data_prognozy`,`opady`,`nazwa` FROM `pogoda`JOIN `miasta`ON `miasta.id`=`pogoda.miasta_id` WHERE`temperatura_dzien`>20;
+kw4: DELETE FROM `pogoda` WHERE `id`=8;
