@@ -1,0 +1,68 @@
+body{
+    font-family: Garamond;
+}
+.banlewy{
+    background-color: rgb(95,158,160);
+    color: yellow;
+    width: 20%;
+    height: 90px;
+    text-align: right;
+    float: left;   
+}
+.banprawy{
+    background-color: rgb(95,158,160);
+    color: yellow;
+    width: 20%;
+    height: 90px;
+    text-align: right;
+    float: left; 
+}
+.bansrodkowy{
+    background-color:rgb(95,158,160);
+    color: yellow;
+    width: 60%;
+    height: 90px;
+    text-align: center;
+    float: left;
+}
+.lewy{
+    background-color: rgb(175,238,238);
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+.prawy{
+    background-color: rgb(175,238,238);
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+.glowny{
+    background-color: rgb(95,158,160);
+    padding: 30px;
+clear: both;
+}
+.stopka{
+    background-color: rgb(175,238,238);
+    padding: 10px 10px 10px 10px;
+    clear: both;
+}
+table td{
+    border: 2px dotted green;
+
+ 
+}
+table{
+       width: 100%;
+    border-collapse: collapse;
+   
+}
+#tri{
+    border: 2px dotted green;
+    color: yellow;
+    background-color: green;
+  
+}
+
+
+
