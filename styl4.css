@@ -49,19 +49,13 @@ clear: both;
 }
 table td{
     border: 2px dotted green;
-
- 
 }
 table{
        width: 100%;
-    border-collapse: collapse;
-   
+    border-collapse: collapse;  
 }
 #tri{
     border: 2px dotted green;
     color: yellow;
     background-color: green;  
 }
-
-
-
