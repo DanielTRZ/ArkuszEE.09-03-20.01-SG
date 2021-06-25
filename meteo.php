@@ -3,17 +3,14 @@
 <head>
   <meta charset="utf-8">
    <title>Progonza pogody Poznań</title>
-    <link rel="stylesheet" href="styl4.css">
-    
+    <link rel="stylesheet" href="styl4.css">   
 </head>
 <body>
    <div class="banlewy">
-    <p>maj, 2019</p>   
-       
+    <p>maj, 2019</p>         
    </div>
    <div class="bansrodkowy">
-       <h2>Prognoza dla Poznania</h2>
-       
+       <h2>Prognoza dla Poznania</h2>    
    </div>
    <div class="banprawy">
        <img src="logo.png" alt="prognoza">
@@ -61,10 +58,8 @@
             echo "<td>";
             echo $row['cisnienie'];"<br>";
             echo "</td>";
-            echo "</tr>";
-               
-           }
-           
+            echo "</tr>";       
+           }  
            mysqli_close($baza);
            ?>
         </table>
