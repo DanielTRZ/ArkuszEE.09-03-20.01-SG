@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="styl4.css">   
 </head>
 <body>
-   <div class="banlewy">
+<div class="banlewy">
     <p>maj, 2019</p>         
    </div>
    <div class="bansrodkowy">
