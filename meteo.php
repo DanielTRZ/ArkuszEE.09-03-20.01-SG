@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="banlewy">
-    <p>maj, 2019</p>         
+<p>maj, 2019</p>         
    </div>
    <div class="bansrodkowy">
        <h2>Prognoza dla Poznania</h2>    
