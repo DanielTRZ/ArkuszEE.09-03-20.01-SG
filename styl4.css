@@ -55,7 +55,7 @@ width: 100%;
 border-collapse: collapse;  
 }
 #tri{
-    border: 2px dotted green;
+border: 2px dotted green;
     color: yellow;
     background-color: green;  
 }
