@@ -13,7 +13,7 @@
 <h2>Prognoza dla Poznania</h2>    
 </div>
 <div class="banprawy">
-       <img src="logo.png" alt="prognoza">
+<img src="logo.png" alt="prognoza">
    </div>
     <div class="lewy">
         <a href="kwerendy.txt">Kwerendy</a>
