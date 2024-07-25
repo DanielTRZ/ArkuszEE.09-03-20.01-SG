@@ -14,7 +14,7 @@
 </div>
 <div class="banprawy">
 <img src="logo.png" alt="prognoza">
-   </div>
+</div>
     <div class="lewy">
         <a href="kwerendy.txt">Kwerendy</a>
     </div>  
