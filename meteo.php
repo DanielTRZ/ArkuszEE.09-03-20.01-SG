@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Progonza pogody Poznań</title>
-    <link rel="stylesheet" href="styl4.css">   
+<link rel="stylesheet" href="styl4.css">   
 </head>
 <body>
    <div class="banlewy">
