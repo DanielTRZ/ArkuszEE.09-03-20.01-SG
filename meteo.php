@@ -12,7 +12,7 @@
 <div class="bansrodkowy">
 <h2>Prognoza dla Poznania</h2>    
 </div>
-   <div class="banprawy">
+<div class="banprawy">
        <img src="logo.png" alt="prognoza">
    </div>
     <div class="lewy">
