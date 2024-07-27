@@ -21,7 +21,7 @@
 <div class="prawy">
 <img src="obraz.jpg" alt="Polska,Poznań">
 </div>   
-    <div class="glowny">
+<div class="glowny">
        <table>
         <tr id="tri">
             <td >Lp.</td>
