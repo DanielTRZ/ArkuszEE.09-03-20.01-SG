@@ -35,7 +35,7 @@
 <?php
 $baza=mysqli_connect('localhost','root','','prognoza');
 if(mysqli_connect_errno()){
-               echo "wystąpił błąd połączenia z bazą";
+echo "wystąpił błąd połączenia z bazą";
            }
            $wynik=mysqli_query($baza,"SELECT * FROM `pogoda` WHERE `miasta_id`=2 ORDER BY `data_prognozy` DESC");
            while($row = mysqli_fetch_array($wynik)){
