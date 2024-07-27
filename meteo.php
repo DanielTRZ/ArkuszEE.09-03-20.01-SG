@@ -30,7 +30,7 @@
 <td>DZIEŃ - TEMPERATURA</td>
 <td>OPADY[mm/h]</td>
 <td>CIŚNIENIE[hPa]</td>
-        </tr>
+</tr>
         <?php
            $baza=mysqli_connect('localhost','root','','prognoza');
            if(mysqli_connect_errno()){
