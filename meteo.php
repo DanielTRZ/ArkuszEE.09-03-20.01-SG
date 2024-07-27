@@ -44,7 +44,7 @@ echo "<tr>";
 echo "<td>";
 echo  $row['id'];   
 echo "</td>";   
-            echo "<td>";
+echo "<td>";
             echo $row['data_prognozy'];"<br>";
             echo "</td>";  
             echo "<td>";
