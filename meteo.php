@@ -23,7 +23,7 @@
 </div>   
 <div class="glowny">
 <table>
-        <tr id="tri">
+<tr id="tri">
             <td >Lp.</td>
             <td>Data</td>
             <td>NOC - TEMPERATURA</td>
