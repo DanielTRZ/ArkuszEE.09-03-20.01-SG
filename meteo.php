@@ -49,7 +49,7 @@ echo $row['data_prognozy'];"<br>";
 echo "</td>";  
 echo "<td>";
 echo $row['temperatura_noc'];"<br>";
-            echo "</td>";
+echo "</td>";
             echo "<td>";
             echo $row['temperatura_dzien'];"<br>";
             echo "</td>";
