@@ -42,7 +42,7 @@ while($row = mysqli_fetch_array($wynik)){
                
 echo "<tr>";
 echo "<td>";
-            echo  $row['id'];   
+echo  $row['id'];   
             echo "</td>";   
             echo "<td>";
             echo $row['data_prognozy'];"<br>";
