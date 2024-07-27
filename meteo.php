@@ -19,7 +19,7 @@
 <a href="kwerendy.txt">Kwerendy</a>
 </div>  
 <div class="prawy">
-        <img src="obraz.jpg" alt="Polska,Poznań">
+<img src="obraz.jpg" alt="Polska,Poznań">
     </div>   
     <div class="glowny">
        <table>
