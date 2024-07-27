@@ -29,7 +29,7 @@
 <td>NOC - TEMPERATURA</td>
 <td>DZIEŃ - TEMPERATURA</td>
 <td>OPADY[mm/h]</td>
-            <td>CIŚNIENIE[hPa]</td>
+<td>CIŚNIENIE[hPa]</td>
         </tr>
         <?php
            $baza=mysqli_connect('localhost','root','','prognoza');
