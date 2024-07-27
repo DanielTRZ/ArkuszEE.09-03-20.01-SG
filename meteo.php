@@ -20,7 +20,7 @@
 </div>  
 <div class="prawy">
 <img src="obraz.jpg" alt="Polska,Poznań">
-    </div>   
+</div>   
     <div class="glowny">
        <table>
         <tr id="tri">
