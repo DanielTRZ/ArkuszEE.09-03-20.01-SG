@@ -24,7 +24,7 @@
 <div class="glowny">
 <table>
 <tr id="tri">
-            <td >Lp.</td>
+<td >Lp.</td>
             <td>Data</td>
             <td>NOC - TEMPERATURA</td>
             <td>DZIEŃ - TEMPERATURA</td>
