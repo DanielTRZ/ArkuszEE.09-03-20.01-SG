@@ -17,7 +17,7 @@
 </div>
 <div class="lewy">
 <a href="kwerendy.txt">Kwerendy</a>
-    </div>  
+</div>  
     <div class="prawy">
         <img src="obraz.jpg" alt="Polska,Poznań">
     </div>   
