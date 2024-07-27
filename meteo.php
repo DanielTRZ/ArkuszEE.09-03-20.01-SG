@@ -41,7 +41,7 @@ $wynik=mysqli_query($baza,"SELECT * FROM `pogoda` WHERE `miasta_id`=2 ORDER BY `
 while($row = mysqli_fetch_array($wynik)){
                
 echo "<tr>";
-            echo "<td>";
+echo "<td>";
             echo  $row['id'];   
             echo "</td>";   
             echo "<td>";
