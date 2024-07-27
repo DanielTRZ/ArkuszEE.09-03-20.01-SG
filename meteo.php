@@ -22,7 +22,7 @@
 <img src="obraz.jpg" alt="Polska,Poznań">
 </div>   
 <div class="glowny">
-       <table>
+<table>
         <tr id="tri">
             <td >Lp.</td>
             <td>Data</td>
