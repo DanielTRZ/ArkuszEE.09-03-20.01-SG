@@ -25,7 +25,7 @@
 <table>
 <tr id="tri">
 <td >Lp.</td>
-            <td>Data</td>
+<td>Data</td>
             <td>NOC - TEMPERATURA</td>
             <td>DZIEŃ - TEMPERATURA</td>
             <td>OPADY[mm/h]</td>
