@@ -63,7 +63,7 @@ echo "<td>";
            }  
            mysqli_close($baza);
            ?>
-        </table>
+</table>
     </div>
 <div class="stopka">
 <p> Stronę wykonał: Daniel</p>
