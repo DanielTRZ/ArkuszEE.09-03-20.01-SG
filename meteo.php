@@ -61,7 +61,7 @@ echo "<td>";
             echo "</td>";
             echo "</tr>";       
            }  
-           mysqli_close($baza);
+mysqli_close($baza);
 ?>
 </table>
 </div>
