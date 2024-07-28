@@ -62,7 +62,7 @@ echo "<td>";
             echo "</tr>";       
            }  
            mysqli_close($baza);
-           ?>
+?>
 </table>
 </div>
 <div class="stopka">
