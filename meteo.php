@@ -66,7 +66,7 @@ echo "<td>";
         </table>
     </div>
     <div class="stopka">
-        <p> Stronę wykonał: Daniel</p>
+<p> Stronę wykonał: Daniel</p>
 </div>
 </body>
 </html>
