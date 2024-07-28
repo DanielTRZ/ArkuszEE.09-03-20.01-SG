@@ -56,7 +56,7 @@ echo "<td>";
             echo "<td>";
             echo $row['opady'];"<br>";
             echo "</td>";
-            echo "<td>";
+echo "<td>";
 echo $row['cisnienie'];"<br>";
 echo "</td>";
 echo "</tr>";       
