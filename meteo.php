@@ -60,7 +60,7 @@ echo "<td>";
             echo $row['cisnienie'];"<br>";
             echo "</td>";
             echo "</tr>";       
-           }  
+}  
 mysqli_close($baza);
 ?>
 </table>
