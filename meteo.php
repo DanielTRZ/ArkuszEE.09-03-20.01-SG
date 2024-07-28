@@ -54,7 +54,7 @@ echo "<td>";
             echo $row['temperatura_dzien'];"<br>";
             echo "</td>";
             echo "<td>";
-            echo $row['opady'];"<br>";
+echo $row['opady'];"<br>";
 echo "</td>";
 echo "<td>";
 echo $row['cisnienie'];"<br>";
